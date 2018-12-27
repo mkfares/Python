@@ -6,4 +6,4 @@
 
 [Dive into Python 3, by Mark Pilgrim (Free)](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
 
-[Think Python: How to Think Like a Computer Scientist, by A. B. Downey](http://greenteapress.com/thinkpython/html/index.html)
+[Think Python: How to Think Like a Computer Scientist, by A. B. Downey (Free)](http://greenteapress.com/thinkpython/html/index.html)
