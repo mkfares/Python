@@ -25,7 +25,7 @@ To check the installed Python version on your macOS system:
 
 3. Click **Continue** after you have read the **Important Information**
 
-4. Read the **License* and click on **Continue** then **Agree* on the license
+4. Read the **License** and click on **Continue** then **Agree** on the license
 
 5. Keep the default **Destination** and click on **Continue**
 
