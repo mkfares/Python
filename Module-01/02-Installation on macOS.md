@@ -4,7 +4,7 @@ The macOS system comes with Python version 2.7 nstalled. In this tutorial, we wi
 
 To check the installed Python version on your macOS system:
 
-1. Open the Terminal window (Cmd + Space Bar then type terminal)
+1. Open the Terminal window by pressing **Cmd + Space bar** keyboard shortcut then write terminal then press Enter key
 
 2. Type the command
     ```
