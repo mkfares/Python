@@ -45,7 +45,7 @@ To check the installed Python version on your macOS system:
     $ python3
     ```
     The above command should display Python 3.7.x. The `python` command refers to Python 2.7.x.
- 3. To exit from Python shell
+ 3. To exit from the Python shell
      ```python
      >>> quit()
      ```
