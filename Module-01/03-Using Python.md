@@ -68,7 +68,7 @@ The Python IDLE has a built-in text editor. To use this provided text editor
 
 7. After running the program, you should see the output in Python Shell window.
     ```python
-    =================== RESTART: /Users/username/Desktop/hello.py ===================
+    =================== RESTART: /Users/username/Documents/hello.py ===================
     Hello
     >>> 
     ```
