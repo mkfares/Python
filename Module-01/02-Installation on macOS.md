@@ -40,7 +40,7 @@ To check the installed Python version on your macOS system:
 ### Run Python in the Terminal
 1. Open the Terminal window (Press Cmd + Space Bar then type terminal)
 
-2. Type the command (note python3 not python)
+2. Type the command (note the number 3)
     ```
     $ python3
     ```
