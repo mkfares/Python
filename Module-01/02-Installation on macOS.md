@@ -14,16 +14,16 @@ To check the installed Python version on your macOS system:
 ### Downaload Python
 1. Downalod Python from [Python Downalod Website](https://www.python.org/downloads/)  
 
-2. Click on the button labeled **Download Python 3.7.x** to start downloading the file
+2. Click on **Download Python 3.7.x** button to start downloading the file
 
-3. The file will be saved into your Downloads folder
+3. The file will be saved to your Downloads folder
 
 ### Install Python
 1. Open the Downalods folder, then double click on the python file 
 
 2. Click **Continue** in the **Welcome to the Python Installer** window
 
-3. Click **Continue** after you read the **Important Information**
+3. Click **Continue** after you have read the **Important Information**
 
 4. Read the **License* and click on **Continue** then **Agree* on the license
 
