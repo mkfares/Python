@@ -33,14 +33,14 @@ To check the installed Python version on your macOS system:
 
 7. Type your password and click **Install**
 
-8. After the installation complete, click on **Close**
+8. After the installation has completed, click on **Close**
 
-9. You may **Move to Trash** the downloaded Python file
+9. You may **Move to Trash** the downloaded python file
 
 ### Verify the Installation
 1. Open the Terminal window (Press Cmd + Space Bar then type terminal)
 
-2. Type the command (note the command python3)
+2. Type the command (note python3 not python)
     ```
     $ python3 --version
     ```
