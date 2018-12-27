@@ -18,9 +18,12 @@
 
 5. Click **Close** when the installation finishes
 
-### Verify the Installation
+### Run Python in the Integrated Development Environment (IDLE)
 1. Go to the start menu and open the folder **Python 3.7**
 
-2. Click on the **IDLE** application to use the Python Integrated Development Environment
+2. Click on the **IDLE** application
 
-3. Click on **Python 3.7** application to use the console
+### Run Python in the Command Shell
+1. Go to the start menu and open the folder **Python 3.7**
+
+2. Click on **Python 3.7** application
