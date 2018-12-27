@@ -45,9 +45,9 @@ A example of writing Python programs process
 3. Save your program in a file with extension .py (e.g. hello.py)
 
 4. Run the program using the command
-```python
->>> python hello.py
-```
+    ```python
+    >>> python hello.py
+    ```
 
 The Python IDLE has a built-in text editor. To use this provided text editor
 
@@ -56,9 +56,9 @@ The Python IDLE has a built-in text editor. To use this provided text editor
 2. From the File menu, click on the New File to create a new file (or Open... in case you want to open an existing file)
 
 3. In the text editor window, type your code; for instance
-```python
-print(Hello")
-```
+    ```python
+    print(Hello")
+    ```
 
 4. To save your program, click on the File menu then Save or use the keyboard shortcut Ctrl+S on Windows and Cmd+S on macOS
 
