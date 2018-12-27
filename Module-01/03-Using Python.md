@@ -64,5 +64,10 @@ The Python IDLE has a built-in text editor. To use this provided text editor
 
 5. Choose the folder where you want to store the file and provide a name for your file (e.g. hello.py)
 
-6. To run the program, click on the Run menu, then Run Module or press F5 key. To see the Run menu, the editor window should be activated or in focus.
+6. To run the program, click on the Run menu, then Run Module or press F5 key. To see the Run menu, the editor window should be active or in focus. After running the program, you should see the output in Python Shell window.
+        ```python
+        =================== RESTART: /Users/user/Desktop/hello.py ===================
+        Hello
+        >>> 
+        ```
 
