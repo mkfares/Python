@@ -62,4 +62,7 @@ The Python IDLE has a built-in text editor. To use this provided text editor
 
 4. To save your program, click on the File menu then Save or use the keyboard shortcut Ctrl+S on Windows and Cmd+S on macOS
 
-5. Choose the folder where you want to store the file and provide a name to your file (e.g. hello.py)
+5. Choose the folder where you want to store the file and provide a name for your file (e.g. hello.py)
+
+6. To run the program, click on the Run menu, then Run Module or press F5 key. To see the Run menu, the editor window should be activated or in focus.
+
