@@ -37,7 +37,7 @@ To check the installed Python version on your macOS system:
 
 9. You may **Move to Trash** the downloaded python file
 
-### Verify the Installation
+### Run Python in the Terminal
 1. Open the Terminal window (Press Cmd + Space Bar then type terminal)
 
 2. Type the command (note python3 not python)
@@ -45,3 +45,9 @@ To check the installed Python version on your macOS system:
     $ python3 --version
     ```
     The above command should display Python 3.7.x. The `python` command refers to Python 2.7.x.
+
+### Run Python Integrated Development Environment (IDLE)
+
+1. Open the **Splotlight Search** using the keyboard shortcut **Cmd + Space bar**
+
+2. Type in the search box **IDLE** and press Enter key
