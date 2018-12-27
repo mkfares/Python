@@ -2,7 +2,7 @@
 
 The macOS system comes with Python version 2.7 nstalled. In this tutorial, we will install Python version 3.7
 
-To check the installed Python version on your macOS
+To check the installed Python version on your macOS system:
 
 1. Open the Terminal window (Cmd + Space Bar then type terminal)
 
