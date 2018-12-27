@@ -1,5 +1,3 @@
-Python may be used in two forms:
-
 ### Interactive Mode (Python shell)
 
 To start using Python in interactive mode, you need to open the Command Prompt on Windows or the Terminal on macos or Linux.
