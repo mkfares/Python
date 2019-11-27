@@ -1,6 +1,6 @@
 ## Python Installation on macOS 10.14+
 
-The macOS system comes with Python version 2.7 nstalled. In this tutorial, we will install Python version 3.7
+The macOS system comes with Python version 2.7 nstalled. In this tutorial, you will install Python version 3.8
 
 To check the installed Python version on your macOS system:
 
