@@ -7,14 +7,14 @@ To check the installed Python version on your macOS system:
 1. Open the Terminal window by pressing **Cmd + Space bar** keyboard shortcut then write terminal then press Enter key
 
 2. Type the command
-    ```
+    ```Bash
     $ python --version
     ```
 
 ### Downaload Python
 1. Downalod Python from [Python Downalod Website](https://www.python.org/downloads/)  
 
-2. Click on **Download Python 3.7.x** button to start downloading the file
+2. Click on **Download Python 3.8** button to start downloading the file
 
 3. The file will be saved to your Downloads folder
 
@@ -40,13 +40,13 @@ To check the installed Python version on your macOS system:
 ### Run Python in the Terminal
 1. Open the Terminal window (Press Cmd + Space Bar then type terminal)
 
-2. Type the command (note the number 3)
+2. Type the following command (note the number 3 at the end)
     ```
     $ python3
     ```
     The above command should display Python 3.7.x. The `python` command refers to Python 2.7.x.
  3. To exit from the Python shell
-     ```python
+     ```Python
      >>> quit()
      ```
 
