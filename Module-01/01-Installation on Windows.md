@@ -28,4 +28,16 @@
 
 ### Run Python in Visual Studio Code
 
-1
+To use Python in Visual Studio Code (VSC), you need to activate first.
+
+1. In VSC, go the command palette by typing Ctrl+Shift+P, then typing the command **Python: Select Interpreter**
+
+2. Select the Python interpreter from the list
+
+3. To test Python inside VSC, open a new file and type the following statement:
+    ```Python
+    print("Hello World")
+    ```
+4. Save your work to hello.py file
+
+5. In the text editor, right-click anywhere in the editor and select **Run Python File in Terminal**
