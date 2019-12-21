@@ -1,12 +1,12 @@
 ## Python Installation on macOS 10.14+
 
-The macOS system comes with Python version 2.7 nstalled. In this tutorial, you will install Python version 3.8
+The macOS system comes with Python version 2.7 installed. In this tutorial, you will install Python version 3.8
 
 To check the installed Python version on your macOS system:
 
 1. Open the Terminal window by pressing **Cmd + Space bar** keyboard shortcut then write terminal then press Enter key
 
-2. Type the command
+2. Type the command in the terminal window
     ```Bash
     $ python --version
     ```
@@ -19,7 +19,7 @@ To check the installed Python version on your macOS system:
 3. The file will be saved to your Downloads folder
 
 ### Install Python
-1. Open the Downalods folder, then double click on the python file 
+1. Open the Downalods folder then double click on the python file 
 
 2. Click **Continue** in the **Welcome to the Python Installer** window
 
@@ -44,7 +44,7 @@ To check the installed Python version on your macOS system:
     ```
     $ python3
     ```
-    The above command should display Python 3.7.x. The `python` command refers to Python 2.7.x.
+    The above command should display Python 3.8.x. The `python` command refers to Python 2.7.x.
  3. To exit from the Python shell
      ```Python
      >>> quit()
